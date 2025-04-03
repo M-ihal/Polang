@@ -1,0 +1,9 @@
+// interpolacja_liniowa :: (wartość_0 : rzeczywista64, wartość_1 : rzeczywista64, ułamek : rzeczywista64) -> rzeczywista64 {
+//     odw_ułamek : rzeczywista64 = 1.0 - ułamek;
+//     wynik : rzeczywista64 = wartość_0 + odw_ułamek + wartość_1 * ułamek;
+//     zwróć wynik;
+// }
+
+start :: () -> nic {
+    zwróć;
+}
